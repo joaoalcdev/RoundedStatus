@@ -1,9 +1,9 @@
 {
-	"name": "radialstatus",
+	"name": "rounded-status",
 	"version": "1.0.0",
 	"description": "Changes the status icons to wrap around the avatar. Shape can be changed inside the theme file.",
-	"repository": "https://github.com/DiscordStyles/RadialStatus.git",
-	"author": "Gibbu <Gibbu_@hotmail.com>",
+	"repository": "https://github.com/joaoalcdev/VoxDiscordTheme.git",
+	"author": "João Alcântara <joaosantalcantara@gmail.com.com>",
 	"license": "MIT",
 	"private": false,
 	"type": "module",
