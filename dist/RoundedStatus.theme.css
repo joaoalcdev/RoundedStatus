@@ -2,11 +2,11 @@
  * @name RoundedStatus
  * @author joaoalcantara#0684
  * @version 1.0.0
- * @description Changes the status icons to wrap around the avatar. Shape can be changed inside the theme file.
- * @source https://github.com/DiscordStyles/RadialStatus
+ * @description Changes the status icons to wrap around the avatar.
+ * @source https://github.com/joaoalcdev/RoundedStatus
 */
 
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://joaoalcdev.github.io/RoundedStatus/dist/dist/RoundedStatus.css');
 
 :root {
   /*
